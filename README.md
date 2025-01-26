@@ -11,13 +11,19 @@ Restart Option: Reset the game with a single click.
 Built With:
 React.js: For dynamic and responsive game functionality.
 SCSS: For clean, scalable, and responsive styling.
+
 How to Run:
+
 Clone the repository:
 git clone https://github.com/karthikeyan-manimaran/2048-Game.git  
+
 Navigate to the directory:
-cd 2048-Game-Webpage  
+cd 2048-Game  
+
 Install dependencies:
 npm install  
+
 Start the app:
 npm start  
+
 Open http://localhost:3000 in your browser and play!
